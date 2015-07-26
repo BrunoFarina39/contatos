@@ -1,9 +1,0 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools" tools:context=".ContatosActivity">
-    <item android:id="@+id/action_meu_numero" android:title="@string/meu_numero"
-    android:orderInCategory="100" app:showAsAction="never" />
-
-    <item android:id="@+id/action_novo_contato" android:title="@string/novo_contato"
-        android:orderInCategory="100" app:showAsAction="never" />
-</menu>
